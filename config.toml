@@ -93,9 +93,9 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Spin Art"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
+      subtitle = "spins"
+      image = "blogs/spin-paintings.jpg"
+      url = "blogs/spin"
 
     [[params.tiles.showcase]]
       title = "Disco"
